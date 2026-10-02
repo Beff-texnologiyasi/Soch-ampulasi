@@ -1,0 +1,7 @@
+flask
+waitress
+psycopg2-binary
+openpyxl
+requests
+python-telegram-bot[job-queue]>=21,<23
+tzdata
